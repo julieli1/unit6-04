@@ -1,3 +1,10 @@
 #body {
   background-color: azure;
 }
+
+#titre {
+  text-align: center;
+  color: #00e6e6;
+  border-style: solid;
+  border-color: #00e6e6;
+}
